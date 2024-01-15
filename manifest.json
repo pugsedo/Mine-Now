@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "mine now",
-  "version": "2.0",
+  "version": "2.3",
   "author": "",
   "files": [
     {
@@ -105,11 +105,6 @@
       "required": true
     },
     {
-      "projectID": 643207,
-      "fileID": 3905449,
-      "required": true
-    },
-    {
       "projectID": 687679,
       "fileID": 4085146,
       "required": true
@@ -163,11 +158,6 @@
       "projectID": 322506,
       "fileID": 4882969,
       "required": false
-    },
-    {
-      "projectID": 448222,
-      "fileID": 4859606,
-      "required": true
     },
     {
       "projectID": 570354,
@@ -232,7 +222,7 @@
     {
       "projectID": 928086,
       "fileID": 4904496,
-      "required": false
+      "required": true
     },
     {
       "projectID": 649722,
@@ -362,11 +352,6 @@
     {
       "projectID": 551736,
       "fileID": 3817266,
-      "required": true
-    },
-    {
-      "projectID": 267769,
-      "fileID": 4577411,
       "required": true
     },
     {
